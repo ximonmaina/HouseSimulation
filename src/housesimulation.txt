@@ -1,0 +1,6 @@
+House simulation 
+
+Length: 250
+Width: 125
+Base color: rgb(182 216 154)
+Flower color: (27 156 156)
